@@ -25,8 +25,8 @@ npm run dev
 ### Backend
 ```bash
 npm run dev              # Development mode (auto-restart)
-npm start              # Production mode
-npm test               # Run tests (when implemented)
+npm start                # Production mode
+npm test                 # Run tests (when implemented)
 
 # Check if running
 curl http://localhost:5000/health
